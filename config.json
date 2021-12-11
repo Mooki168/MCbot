@@ -1,6 +1,6 @@
 {
-	"ip":"Your IP",
-	"port": "Your Port",
-	"name": "Name Bot",
+	"ip":"BlueCityTown.aternos.me:48889",
+	"port": "48889",
+	"name": "BlueCityTown",
 	"auto-night-skip":"false"
 }
